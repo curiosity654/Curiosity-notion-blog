@@ -3,7 +3,7 @@ module.exports = {
         {
             resolve: `gatsby-theme-gine-blog`,
             options: {
-                configTable: "https://www.notion.so/b4af861710064848aaf9f859c79bb127?v=0de244d6f8414ade9b7b147adcb2f78e"
+                configTable: "https://www.notion.so/5189ae295af4451787bf9a6e4e0e2857?v=6a04fdb853ff4d7e96ad8276086e6c58"
             }
         },
         {
