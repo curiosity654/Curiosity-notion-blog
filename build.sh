@@ -1,0 +1,1 @@
+curl -X POST -d {} https://api.netlify.com/build_hooks/5e886b52b020052e8adb8eb5
